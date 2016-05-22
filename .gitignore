@@ -1,2 +1,5 @@
+typings/
 node_modules/
+.tmp/
 dist/
+typings/
